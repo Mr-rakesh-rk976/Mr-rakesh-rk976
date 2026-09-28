@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rakesh (@Mr-rakesh-rk975)  
+# 👋 Hi, I’m Rakesh (@Mr-rakesh-rk976)  
 Welcome to my GitHub profile! I'm passionate about technology and always eager to learn and explore new things.
 
 ## 👀 Interests  
