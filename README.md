@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Rakesh (@Mr-rakesh-rk975)  
+Welcome to my GitHub profile! I'm passionate about technology and always eager to learn and explore new things.
 
-<!--
-**Mr-rakesh-rk976/Mr-rakesh-rk976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 Interests  
+- Web development  
+- Open-source contributions  
+- AI & Machine Learning  
+- Software development  
+- Problem-solving & Competitive programming  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning  
+- JavaScript & React.js, Next.js, React-native  
+- Backend development (Node.js, Express, MongoDB)  
+- Data structures & algorithms  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💞️ Looking to Collaborate On  
+- Open-source projects  
+- Web development & full-stack applications  
+- Innovative tech solutions  
+
+## 📫 How to Reach Me  
+- Email: [rkrock24726@gmail.com](mailto:rkrock24726@gmail.com)  
+
+## 😄 Pronouns  
+He/Him  
+
+## ⚡ Fun Fact  
+I love debugging code as much as I love coffee ☕!  
+
+🚀 Let's connect and build something amazing together!
